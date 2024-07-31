@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ReactCrud.Server;
+namespace ReactCrud.Server.Models;
 
 public partial class Contacto
 {
